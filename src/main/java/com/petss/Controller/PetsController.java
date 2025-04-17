@@ -17,7 +17,7 @@ import com.petss.Entity.Pets;
 import com.petss.Service.PetsService;
 
 @RestController
-@RequestMapping("/pets")
+@RequestMapping("pets")
 
 public class PetsController {
 
